@@ -7809,7 +7809,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #1B4A8A !important;
+  background-color: #024F8F !important;
 }
 
 .bg-secondary {
@@ -11353,7 +11353,7 @@ hr.divider-light {
 @media (min-width: 992px) {
   #mainNav {
     box-shadow: none;
-    background-color: #1B4A8A;
+    background-color: #024F8F;
   }
   #mainNav .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
@@ -11373,7 +11373,7 @@ hr.divider-light {
   }
   #mainNav.navbar-shrink {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #1B4A8A;
+    background-color: #024F8F;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #212529;
